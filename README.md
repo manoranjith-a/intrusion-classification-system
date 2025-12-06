@@ -46,3 +46,23 @@ We optimized for **Macro F1-Score** to ensure rare attacks were detected just as
 1. Clone the repository:
    ```bash
    git clone [https://github.com/manoranjith-a/intrusion-classification-system.git](https://github.com/manoranjith-a/intrusion-classification-system.git)
+
+2. Install dependencies:
+`pip install -r requirements.txt`
+
+### Running the Project
+Open the Jupyter Notebook:
+`jupyter notebook intrusion-classification-system.ipynb`
+The notebook utilizes the ucimlrepo library to fetch the dataset directly. No manual data download is required.
+
+### 👥 Team Members
+1. Manoranjith Anandan
+2. Melissa Cai Shi
+3. Bakr Katkhuda
+4. Kumar Rishu
+5. Suryah Vadivel
+
+### 📜 License & Acknowledgments
+Dataset: RT-IoT2022 on UCI Machine Learning Repository.
+
+Course: Advanced Machine Learning Capstone.
